@@ -1,0 +1,9 @@
+{% extends 'layouts/base.njk' %}
+
+{% block page_title %}
+{{ path }}
+{% endblock %}
+
+{% block content %}
+{{ nodes | dump | safe }}
+{% endblock %}
