@@ -1,6 +1,7 @@
 sudo: false
 os: linux
 language: node_js
+cache: yarn
 node_js:
   - 14
 
