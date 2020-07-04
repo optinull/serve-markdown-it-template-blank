@@ -92,7 +92,7 @@
     "jsdoc-to-markdown": "^6.0.1",
     "mocha": "^8.0.1",
     "nyc": "^15.1.0",
-    "serve-markdown-it-lib": "file:.yalc/serve-markdown-it-lib",
+    "serve-markdown-it-lib": "^1.0.5",
     "standard-version": "^8.0.0",
     "stylelint": "^13.6.1",
     "stylelint-config-rational-order": "^0.1.2",
